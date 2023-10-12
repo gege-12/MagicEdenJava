@@ -1,0 +1,2 @@
+# MagicEdenJava
+Java is marvelous
